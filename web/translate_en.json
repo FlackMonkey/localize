@@ -1,0 +1,16 @@
+{
+    "values":{
+        "helpText" : "This text provides help to all users reading it",
+        "helpTitle" : "Localization Example",
+        "youHaveChanged" : "You have",
+        "haveChangedText" : "changed text",
+        "%n times":[
+            [0,0, "not"],
+            [1,1, "once"],
+            [2,2, "two times"],
+            [3,3, "three times"],
+            [4,4, "four times"],
+            [5,null, "%n times"]
+        ]
+    }
+}
